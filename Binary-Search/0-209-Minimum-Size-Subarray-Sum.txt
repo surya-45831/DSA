@@ -1,0 +1,26 @@
+// ═══════════════════════════════════════════════════════
+// Problem   : 0. 209. Minimum Size Subarray Sum
+// Difficulty: Medium
+// Topics    : Array, Binary Search, Sliding Window, Prefix Sum
+// Category  : Binary-Search
+// Link      : https://leetcode.com/problems/minimum-size-subarray-sum/
+// ═══════════════════════════════════════════════════════
+            while(sum>target)
+            {
+                sum=sum-nums[l];
+            }
+                l++;
+            if(sum==target)
+            {
+                if(!b)
+                {
+                    s=r-l+1;
+        {
+            sum=sum+nums[r];
+        boolean b=false;
+        for(int r=0;r<nums.length;r++)
+        int sum=0;
+        int s=0;
+        int l=0;
+class Solution {
+    public int minSubArrayLen(int target, int[] nums) {
