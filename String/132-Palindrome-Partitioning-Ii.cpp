@@ -5,27 +5,25 @@
 
 class Solution {
 public:
+bool isPal(string& str, int i, int j) {
+   while (i < j) {
+      if (str[i] != str[j]) return false;
+      i++;
+      j--;
+   }
+   return true;
+}
+
+int minCut(string& str, int start, int end) {
+   if (end-start < 2 || isPal(str, start, end)) return 0; 
+   int minVal = INT_MAX;
+   for (int i = start+1; i < end; i++) {
+      minVal = min(minCut(str, start, i) + 1 + minCut(str, i+1, end), minVal); 
+   } 
+   return minVal;
+}
+
     int minCut(string s) {
-        // Start typing your C/C++ solution below
-        // DO NOT write int main() function
-        int len = s.size();  
-3:            int D[len+1];  
-4:            bool P[len][len];  
-5:            //the worst case is cutting by each char  
-6:            for(int i = 0; i <= len; i++)   
-7:            D[i] = len-i;  
-8:            for(int i = 0; i < len; i++)  
-9:            for(int j = 0; j < len; j++)  
-10:            P[i][j] = false;  
-11:            for(int i = len-1; i >= 0; i--){  
-12:                 for(int j = i; j < len; j++){  
-13:                      if(s[i] == s[j] && (j-i<2 || P[i+1][j-1])){  
-14:                           P[i][j] = true;  
-15:                           D[i] = min(D[i],D[j+1]+1);  
-16:                      }  
-17:                 }  
-18:            }  
-19:            return D[0]-1;  
-        
+        minCut(s, 0, s.length())
     }
 };
