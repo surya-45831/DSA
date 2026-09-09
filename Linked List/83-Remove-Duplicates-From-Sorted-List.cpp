@@ -14,26 +14,17 @@
 class Solution {
 public:
     ListNode *deleteDuplicates(ListNode *head) {
-        // Start typing your C/C++ solution below
-        // DO NOT write int main() function
-        if (head == NULL){
-            return NULL;
-        }
-        ListNode *list = head;
-        ListNode *node = head;
-        ListNode *prev = head;
-        node = node->next;
-        while(node != NULL){
-            if (node->val == prev->val){
-                prev->next = node->next;
-                node->next = NULL;
-                node = prev->next;
-            }
-            else{
-                node = node->next;
-                prev = prev->next;
-            }
-        }
-        return list;
+		ListNode *res = head;
+		ListNode *rh = head;
+		if (!head)
+			return NULL;
+		head = head->next;
+		while (head) {
+			if (head->val != res->val) {
+				res->next = head;
+			}
+		}
+		res->next = NULL;
+		return rh;
     }
 };
