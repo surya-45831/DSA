@@ -170,6 +170,12 @@ A collection of my coding solutions and problem-solving practice.
 | 104 | [Maximum Depth of Binary Tree](./Tree/104-Maximum-Depth-Of-Binary-Tree.cpp) | Easy | C++ |
 | 129 | [Sum Root to Leaf Numbers](./Tree/129-Sum-Root-To-Leaf-Numbers.cpp) | Medium | C++ |
 
+### Two Pointers
+
+| Number | Problem Name | Difficulty | Language |
+| --- | --- | --- | --- |
+| 876 | [Middle of the Linked List](./Linked%20List/876-Middle-Of-The-Linked-List.java) | Easy | Java |
+
 ### Two-Pointer
 
 | Number | Problem Name | Difficulty | Language |
