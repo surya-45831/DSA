@@ -9,20 +9,20 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 15 | [3Sum](./Array/15-3sum.java) | Medium | Java |
+| 15 | [3Sum](./Arrays/15-3sum.java) | Medium | Java |
 | 51 | [N-Queens](./Array/51-N-Queens.java) | Hard | Java |
-| 55 | [Jump Game](./Array/55-Jump-Game.java) | Medium | Java |
+| 0055 | [Jump Game](./Array/55-Jump-Game.java) | Easy | Java |
 | 56 | [Merge Intervals](./Array/56-Merge-Intervals.java) | Medium | Java |
-| 78 | [Subsets](./Array/78-Subsets.java) | Medium | Java |
-| 90 | [Subsets II](./Array/90-Subsets-Ii.java) | Medium | Java |
-| 198 | [House Robber](./Array/198-House-Robber.java) | Medium | Java |
-| 209 | [Minimum Size Subarray Sum](./Array/209-Minimum-Size-Subarray-Sum.java) | Medium | Java |
-| 219 | [Contains Duplicate II](./Array/219-Contains-Duplicate-Ii.java) | Easy | Java |
-| 350 | [Intersection of Two Arrays II](./Array/350-Intersection-Of-Two-Arrays-Ii.java) | Easy | Java |
-| 674 | [Longest Continuous Increasing Subsequence](./Array/674-Longest-Continuous-Increasing-Subsequence.java) | Easy | Java |
-| 930 | [Binary Subarrays With Sum](./Array/930-Binary-Subarrays-With-Sum.java) | Medium | Java |
-| 980 | [Unique Paths III](./Array/980-Unique-Paths-Iii.java) | Hard | Java |
-| 1493 | [Longest Subarray of 1's After Deleting One Element](./Array/1493-Longest-Subarray-Of-1-S-After-Deleting-One-Element.java) | Medium | Java |
+| 0078 | [Subsets](./Array/78-Subsets.java) | Easy | java |
+| 0090 | [Subsets II](./Array/90-Subsets-Ii.java) | Easy | java |
+| 0198 | [House Robber](./Array/198-House-Robber.java) | Easy | java |
+| 0209 | [Minimum Size Subarray Sum](./Array/209-Minimum-Size-Subarray-Sum.java) | Easy | java |
+| 0219 | [Contains Duplicate II](./Array/219-Contains-Duplicate-Ii.java) | Easy | java |
+| 0350 | [Intersection of Two Arrays II](./Array/350-Intersection-Of-Two-Arrays-Ii.java) | Easy | java |
+| 0674 | [Longest Continuous Increasing Subsequence](./Array/674-Longest-Continuous-Increasing-Subsequence.java) | Easy | java |
+| 0930 | [Binary Subarrays With Sum](./Array/930-Binary-Subarrays-With-Sum.java) | Easy | java |
+| 0980 | [Unique Paths III](./Array/980-Unique-Paths-Iii.java) | Easy | java |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](./Array/1493-Longest-Subarray-Of-1-S-After-Deleting-One-Element.java) | Easy | java |
 
 ### Arrays
 
@@ -35,7 +35,7 @@ A collection of my coding solutions and problem-solving practice.
 | — | [Rotate Array](./Arrays/RotateArray.java) | Easy | Java |
 | — | [Third Maximum Number](./Arrays/ThirdMaximumNumber.java) | Easy | Java |
 | — | [Max Consecutive Ones](./Arrays/MaxConsecutiveOnes.java) | Easy | Java |
-| — | [Shortest Distance to a Character](./Arrays/ShortestDistanceToACharacter.java) | Easy | java |
+| — | [Shortest Distance to a Character](./Arrays/ShortestDistanceToACharacter.java) | Easy | Java |
 | — | [Richest Customer Wealth](./Arrays/RichestCustomerWealth.java) | Easy | Java |
 | — | [Number of Employees Who Met the Target](./Arrays/NumberOfEmployeesWhoMetTheTarget.java) | Easy | Java |
 | 0001 | [Two Sum](./Arrays/RunningSumOf1DArray.java) | Easy | Java |
@@ -44,7 +44,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 77 | [Combinations](./Backtracking/77-Combinations.java) | Medium | Java |
+| 0077 | [Combinations](./Backtracking/77-Combinations.java) | Easy | java |
 
 ### Binary-search
 
@@ -52,7 +52,7 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- | --- |
 | — | [Search Insert Position](./Binary-search/SearchInsertPosition.java) | Easy | Java |
 | — | [First Bad Version](./Binary-search/FirstBadVersion.java) | Easy | Java |
-| — | [Binary Search](./Binary-search/BinarySearch.java) | Easy | java |
+| — | [Binary Search](./Binary-search/BinarySearch.java) | Easy | Java |
 | — | [Maximum Count of Positive Integer and Negative Integer](./Binary-search/MaximumCountOfPositiveIntegerAndNegativeInteger.java) | Easy | Java |
 
 ### Bit Manipulation
@@ -60,7 +60,7 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
 | — | [Single Number](./Bit%20Manipulation/SingleNumber.java) | Easy | Java |
-| — | [Find the Difference](./Bit%20Manipulation/FindTheDifference.java) | Easy | java |
+| — | [Find the Difference](./Bit%20Manipulation/FindTheDifference.java) | Easy | Java |
 
 ### Dynamic Programming
 
@@ -78,22 +78,22 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 76 | [Minimum Window Substring](./Hash%20Table/76-Minimum-Window-Substring.java) | Hard | Java |
+| 0076 | [Minimum Window Substring](./Hash%20Table/76-Minimum-Window-Substring.java) | Easy | java |
 | 127 | [Word Ladder](./Hash%20Table/127-Word-Ladder.java) | Hard | Java |
-| 424 | [Longest Repeating Character Replacement](./Hash%20Table/424-Longest-Repeating-Character-Replacement.java) | Medium | Java |
+| 0424 | [Longest Repeating Character Replacement](./Hash%20Table/424-Longest-Repeating-Character-Replacement.java) | Easy | java |
 
 ### Hash-Map
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
 | — | [Two Sum II - Input Array Is Sorted](./Hash-Map/Two-sum.java) | Easy | Java |
-| — | [Majority Element](./Hash-Map/MajorityElement.java) | Easy | java |
+| — | [Majority Element](./Hash-Map/MajorityElement.java) | Easy | Java |
 
 ### Hash-Set
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| — | [First Missing Positive](./Hash-Set/FirstMissingPositive.java) | Easy | java |
+| — | [First Missing Positive](./Hash-Set/FirstMissingPositive.java) | Easy | Java |
 | — | [Contains Duplicate](./Hash-Set/ContainsDuplicate.java) | Easy | Java |
 | — | [Intersection of Two Arrays](./Hash-Set/IntersectionOfTwoArrays.java) | Easy | Java |
 
@@ -123,17 +123,17 @@ A collection of my coding solutions and problem-solving practice.
 | — | [Missing Number](./Math/MissingNumber.java) | Easy | Java |
 | — | [Find Numbers with Even Number of Digits](./Math/FindNumbersWithEvenNumberOfDigits.java) | Easy | Java |
 | 7 | [Reverse Integer](./Math/7-Reverse-Integer.cpp) | Medium | C++ |
-| 62 | [Unique Paths](./Math/62-Unique-Paths.java) | Medium | Java |
-| 70 | [Climbing Stairs](./Math/70-Climbing-Stairs.java) | Easy | Java |
-| 509 | [Fibonacci Number](./Math/509-Fibonacci-Number.java) | Easy | Java |
-| 1137 | [N-th Tribonacci Number](./Math/1137-N-Th-Tribonacci-Number.java) | Easy | Java |
+| 0062 | [Unique Paths](./Math/62-Unique-Paths.java) | Easy | java |
+| 0070 | [Climbing Stairs](./Math/70-Climbing-Stairs.java) | Easy | java |
+| 0509 | [Fibonacci Number](./Math/509-Fibonacci-Number.java) | Easy | java |
+| 1137 | [N-th Tribonacci Number](./Math/1137-N-Th-Tribonacci-Number.java) | Easy | java |
 
 ### Sliding-Window
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| — | [Longest Substring Without Repeating Characters](./Sliding-Window/LongestSubstringWithoutRepeatingCharacters.java) | Easy | java |
-| — | [Permutation in String](./Sliding-Window/PermutationInString.java) | Easy | java |
+| — | [Longest Substring Without Repeating Characters](./Sliding-Window/LongestSubstringWithoutRepeatingCharacters.java) | Easy | Java |
+| — | [Permutation in String](./Sliding-Window/PermutationInString.java) | Easy | Java |
 | — | [Maximum Average Subarray I](./Sliding-Window/MaximumAverageSubarrayI.java) | Easy | Java |
 | — | [Maximum Number of Vowels in a Substring of Given Length](./Sliding-Window/MaximumNumberOfVowelsInASubstringOfGivenLength.java) | Easy | Java |
 
@@ -154,12 +154,12 @@ A collection of my coding solutions and problem-solving practice.
 | — | [Find First Palindromic String in the Array](./String/FindFirstPalindromicStringInTheArray.java) | Easy | Java |
 | 8 | [String to Integer (atoi)](./String/8-String-To-Integer-Atoi.cpp) | Medium | C++ |
 | 20 | [Valid Parentheses](./String/20-Valid-Parentheses.cpp) | Easy | C++ |
-| 58 | [Length of Last Word](./String/58-Length-Of-Last-Word.java) | Easy | Java |
+| 0058 | [Length of Last Word](./String/58-Length-Of-Last-Word.java) | Easy | Java |
 | 65 | [Valid Number](./String/65-Valid-Number.cpp) | Hard | C++ |
 | 115 | [Distinct Subsequences](./String/115-Distinct-Subsequences.cpp) | Hard | C++ |
 | 131 | [Palindrome Partitioning](./String/131-Palindrome-Partitioning.cpp) | Medium | C++ |
 | 132 | [Palindrome Partitioning II](./String/132-Palindrome-Partitioning-Ii.cpp) | Hard | C++ |
-| 1143 | [Longest Common Subsequence](./String/1143-Longest-Common-Subsequence.java) | Medium | Java |
+| 1143 | [Longest Common Subsequence](./String/1143-Longest-Common-Subsequence.java) | Easy | java |
 
 ### Tree
 
