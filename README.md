@@ -61,6 +61,7 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- | --- |
 | — | [Single Number](./Bit%20Manipulation/SingleNumber.java) | Easy | Java |
 | — | [Find the Difference](./Bit%20Manipulation/FindTheDifference.java) | Easy | Java |
+| 231 | [Power of Two](./Math/231-Power-Of-Two.java) | Easy | Java |
 
 ### Dynamic Programming
 
