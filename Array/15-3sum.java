@@ -1,35 +1,48 @@
 // Problem Number: 15
 // Problem Name: 3Sum
 // Difficulty: Medium
-// Topic: Array, Two Pointers, Sorting
+// Topic: Array
 
-public class Solution {
-    public ArrayList<ArrayList<Integer>> threeSum(int[] num) {
-        // Start typing your Java solution below
-        // DO NOT write main() function
-        ArrayList<ArrayList<Integer>> res = new ArrayList<ArrayList<Integer>>();
-        Arrays.sort(num);
-        for(int i = 0; i<num.length; i++) {
-            int j = i+1;
-            int k = num.length-1;
-            while(j<k&&j<num.length) {
-                    int sum = num[i] + num[j] + num[k];
-                    if(sum==0) {
-                        ArrayList<Integer> tmp = new ArrayList<Integer>();
-                        tmp.add(num[i]);
-                        tmp.add(num[j]);
-                        tmp.add(num[k]);
-                        res.add(tmp);
-                        j++;
-                        k--;
-                    } else if(sum>0) {
-                        k--;
-                    } else {
-                        j++;
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>>all=new ArrayList<>();
+        int n=nums.length;
+        Arrays.sort(nums);
+        for(int i=0;i<n-2;i++)
+        {
+            if(i>0&&nums[i]==nums[i-1])
+            {
+                continue;
+            }
+            int l=i+1;
+            int r=n-1;
+            while(l<r)
+            {
+                int s=nums[l]+nums[r]+nums[i];
+                if(s==0)
+                {
+                    all.add(Arrays.asList(nums[i],nums[l],nums[r]));
+                    l++;
+                    r--;
+                    while(l<r&&nums[l]==nums[l-1])
+                    {
+                        l++;
+                    }
+                    while(l<r&&nums[r]==nums[r+1])
+                    {
+                        r--;
                     }
                 }
+                else if(s<0)
+                {
+                    l++;
+                }
+                else
+                {
+                    r--;
+                }
             }
-        return res;
         }
+        return all;
     }
 }
