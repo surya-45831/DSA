@@ -9,7 +9,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 15 | [3Sum](./Array/15-3sum.java) | Medium | Java |
+| 0015 | [3Sum](./Array/15-3sum.java) | Easy | Java |
 | 51 | [N-Queens](./Array/51-N-Queens.java) | Hard | Java |
 | 0055 | [Jump Game](./Array/55-Jump-Game.java) | Easy | Java |
 | 56 | [Merge Intervals](./Array/56-Merge-Intervals.java) | Medium | Java |
@@ -18,7 +18,7 @@ A collection of my coding solutions and problem-solving practice.
 | 0198 | [House Robber](./Array/198-House-Robber.java) | Easy | java |
 | 0209 | [Minimum Size Subarray Sum](./Array/209-Minimum-Size-Subarray-Sum.java) | Easy | java |
 | 0219 | [Contains Duplicate II](./Array/219-Contains-Duplicate-Ii.java) | Easy | java |
-| 0350 | [Intersection of Two Arrays II](./Array/350-Intersection-Of-Two-Arrays-Ii.java) | Easy | java |
+| 0350 | [Intersection of Two Arrays II](./Array/350-Intersection-Of-Two-Arrays-Ii.java) | Easy | Java |
 | 0674 | [Longest Continuous Increasing Subsequence](./Array/674-Longest-Continuous-Increasing-Subsequence.java) | Easy | java |
 | 0930 | [Binary Subarrays With Sum](./Array/930-Binary-Subarrays-With-Sum.java) | Easy | java |
 | 0980 | [Unique Paths III](./Array/980-Unique-Paths-Iii.java) | Easy | java |
@@ -61,7 +61,7 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- | --- |
 | — | [Single Number](./Bit%20Manipulation/SingleNumber.java) | Easy | Java |
 | — | [Find the Difference](./Bit%20Manipulation/FindTheDifference.java) | Easy | Java |
-| 231 | [Power of Two](./Math/231-Power-Of-Two.java) | Easy | Java |
+| 0231 | [Power of Two](./Math/231-Power-Of-Two.java) | Easy | Java |
 
 ### Dynamic Programming
 
@@ -115,6 +115,8 @@ A collection of my coding solutions and problem-solving practice.
 | 86 | [Partition List](./Linked%20List/86-Partition-List.cpp) | Medium | C++ |
 | 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/109-Convert-Sorted-List-To-Binary-Search-Tree.java) | Medium | Java |
 | 117 | [Populating Next Right Pointers in Each Node II](./Linked%20List/117-Populating-Next-Right-Pointers-In-Each-Node-Ii.cpp) | Medium | C++ |
+| 141 | [Linked List Cycle](./Linked%20List/141-Linked-List-Cycle.java) | Easy | Java |
+| 0876 | [Middle of the Linked List](./Linked%20List/876-Middle-Of-The-Linked-List.java) | Easy | java |
 
 ### Math
 
@@ -126,6 +128,7 @@ A collection of my coding solutions and problem-solving practice.
 | 7 | [Reverse Integer](./Math/7-Reverse-Integer.cpp) | Medium | C++ |
 | 0062 | [Unique Paths](./Math/62-Unique-Paths.java) | Easy | java |
 | 0070 | [Climbing Stairs](./Math/70-Climbing-Stairs.java) | Easy | java |
+| 0231 | [Power of Two](./Math/231-Power-Of-Two.java) | Easy | java |
 | 0509 | [Fibonacci Number](./Math/509-Fibonacci-Number.java) | Easy | java |
 | 1137 | [N-th Tribonacci Number](./Math/1137-N-Th-Tribonacci-Number.java) | Easy | java |
 
@@ -174,7 +177,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 876 | [Middle of the Linked List](./Linked%20List/876-Middle-Of-The-Linked-List.java) | Easy | Java |
+| 0876 | [Middle of the Linked List](./Linked%20List/876-Middle-Of-The-Linked-List.java) | Easy | Java |
 
 ### Two-Pointer
 
