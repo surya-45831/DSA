@@ -9,7 +9,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
-| 15 | [3Sum](./Arrays/15-3sum.java) | Medium | Java |
+| 15 | [3Sum](./Array/15-3sum.java) | Medium | Java |
 | 51 | [N-Queens](./Array/51-N-Queens.java) | Hard | Java |
 | 0055 | [Jump Game](./Array/55-Jump-Game.java) | Easy | Java |
 | 56 | [Merge Intervals](./Array/56-Merge-Intervals.java) | Medium | Java |
