@@ -108,6 +108,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
+| 2 | [Add Two Numbers](./Linked%20List/2-Add-Two-Numbers.java) | Medium | Java |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/21-Merge-Two-Sorted-Lists.java) | Easy | Java |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/24-Swap-Nodes-In-Pairs.java) | Medium | Java |
 | 82 | [Remove Duplicates from Sorted List II](./Linked%20List/82-Remove-Duplicates-From-Sorted-List-Ii.cpp) | Medium | C++ |
