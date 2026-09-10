@@ -118,6 +118,7 @@ A collection of my coding solutions and problem-solving practice.
 | 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/109-Convert-Sorted-List-To-Binary-Search-Tree.java) | Medium | Java |
 | 117 | [Populating Next Right Pointers in Each Node II](./Linked%20List/117-Populating-Next-Right-Pointers-In-Each-Node-Ii.cpp) | Medium | C++ |
 | 141 | [Linked List Cycle](./Linked%20List/141-Linked-List-Cycle.java) | Easy | Java |
+| 160 | [Intersection of Two Linked Lists](./Hash%20Table/160-Intersection-Of-Two-Linked-Lists.java) | Easy | Java |
 | 203 | [Remove Linked List Elements](./Linked%20List/203-Remove-Linked-List-Elements.java) | Easy | Java |
 | 0876 | [Middle of the Linked List](./Linked%20List/876-Middle-Of-The-Linked-List.java) | Easy | java |
 
