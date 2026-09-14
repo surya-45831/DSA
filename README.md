@@ -120,6 +120,7 @@ A collection of my coding solutions and problem-solving practice.
 | 141 | [Linked List Cycle](./Linked%20List/141-Linked-List-Cycle.java) | Easy | Java |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/160-Intersection-Of-Two-Linked-Lists.java) | Easy | Java |
 | 203 | [Remove Linked List Elements](./Linked%20List/203-Remove-Linked-List-Elements.java) | Easy | Java |
+| 237 | [Delete Node in a Linked List](./Linked%20List/237-Delete-Node-In-A-Linked-List.java) | Medium | Java |
 | 0876 | [Middle of the Linked List](./Linked%20List/876-Middle-Of-The-Linked-List.java) | Easy | java |
 
 ### Math
