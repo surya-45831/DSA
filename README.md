@@ -67,6 +67,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
+| 542 | [01 Matrix](./Array/542-Matrix.java) | Medium | Java |
 | 733 | [Flood Fill](./Array/733-Flood-Fill.java) | Easy | Java |
 
 ### Dynamic Programming
