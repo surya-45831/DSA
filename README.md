@@ -10,7 +10,6 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
 | 0015 | [3Sum](./Array/15-3sum.java) | Easy | Java |
-| 51 | [N-Queens](./Array/51-N-Queens.java) | Hard | Java |
 | 0055 | [Jump Game](./Array/55-Jump-Game.java) | Easy | Java |
 | 56 | [Merge Intervals](./Array/56-Merge-Intervals.java) | Medium | Java |
 | 0078 | [Subsets](./Array/78-Subsets.java) | Easy | java |
@@ -44,6 +43,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
+| 51 | [N-Queens](./Backtracking/51-N-Queens.java) | Hard | Java |
 | 0077 | [Combinations](./Backtracking/77-Combinations.java) | Easy | java |
 
 ### Binary-search
