@@ -144,6 +144,7 @@ A collection of my coding solutions and problem-solving practice.
 | 0231 | [Power of Two](./Math/231-Power-Of-Two.java) | Easy | java |
 | 0509 | [Fibonacci Number](./Math/509-Fibonacci-Number.java) | Easy | java |
 | 1137 | [N-th Tribonacci Number](./Math/1137-N-Th-Tribonacci-Number.java) | Easy | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./Array/3550-Smallest-Index-With-Digit-Sum-Equal-To-Index.java) | Easy | Java |
 
 ### Sliding-Window
 
