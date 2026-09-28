@@ -179,6 +179,7 @@ A collection of my coding solutions and problem-solving practice.
 | 131 | [Palindrome Partitioning](./String/131-Palindrome-Partitioning.cpp) | Medium | C++ |
 | 132 | [Palindrome Partitioning II](./String/132-Palindrome-Partitioning-Ii.cpp) | Hard | C++ |
 | 1143 | [Longest Common Subsequence](./String/1143-Longest-Common-Subsequence.java) | Easy | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./String/1614-Maximum-Nesting-Depth-Of-The-Parentheses.java) | Easy | Java |
 
 ### Tree
 
