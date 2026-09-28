@@ -67,6 +67,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty | Language |
 | --- | --- | --- | --- |
+| 463 | [Island Perimeter](./Array/463-Island-Perimeter.java) | Easy | Java |
 | 542 | [01 Matrix](./Array/542-Matrix.java) | Medium | Java |
 | 733 | [Flood Fill](./Array/733-Flood-Fill.java) | Easy | Java |
 | 1091 | [Shortest Path in Binary Matrix](./Array/1091-Shortest-Path-In-Binary-Matrix.java) | Medium | Java |
