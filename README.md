@@ -178,6 +178,7 @@ A collection of my coding solutions and problem-solving practice.
 | 115 | [Distinct Subsequences](./String/115-Distinct-Subsequences.cpp) | Hard | C++ |
 | 131 | [Palindrome Partitioning](./String/131-Palindrome-Partitioning.cpp) | Medium | C++ |
 | 132 | [Palindrome Partitioning II](./String/132-Palindrome-Partitioning-Ii.cpp) | Hard | C++ |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./String/1111-Maximum-Nesting-Depth-Of-Two-Valid-Parentheses-Strings.java) | Medium | Java |
 | 1143 | [Longest Common Subsequence](./String/1143-Longest-Common-Subsequence.java) | Easy | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./String/1614-Maximum-Nesting-Depth-Of-The-Parentheses.java) | Easy | Java |
 
